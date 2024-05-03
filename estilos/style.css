@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Birds of Paradise';
+    src: url("../fonts/Birds_of_Paradise.woff2");
+}
+
+nav a:hover{
+    text-decoration: underline;
+}
+
+.navbar-brand  {
+    font-family: 'Birds of Paradise';
+    color: #58372e !important;
+}
